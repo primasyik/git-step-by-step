@@ -26,9 +26,19 @@ Git Command (Local)
 note : Git can also be run using the command prompt
 
 Step by Step
-1.  Git init in loval folder
-2.  Add Your GitHub Repository as a Remote : git remote add origin <repository-url>
-3.  
+1.  Login email git config --global user.email "you@example.com"
+2.  Login username git config --global user.name "Your Name"
+3.  Git init in local folder
+4.  Git Status
+5.  Add Your GitHub Repository as a Remote : git remote add origin <repository-url>
+6.  Merubah nama branch dari master ke main : 
+7.  git commit
+8.  
 
+note : 
+jika anda hanya git commit maka bisa saja anda akan masuk ke menu vim
+untuk keluar dari menu tersebut
+esc
+ketik :q!
 
 
