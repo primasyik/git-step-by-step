@@ -1,5 +1,5 @@
 # git-step-by-step
 
-# Repo      : Folder
-# Coomit    : 
-# 
+1. Repo      : Folder
+2. Coomit    : 
+3.  
